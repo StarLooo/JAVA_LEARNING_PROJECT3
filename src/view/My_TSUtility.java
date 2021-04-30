@@ -1,6 +1,6 @@
 package view;
 
-import java.util.*;
+import java.util.Scanner;
 
 public class My_TSUtility {
 
@@ -75,3 +75,4 @@ public class My_TSUtility {
     }
 
 }
+
